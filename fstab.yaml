@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p23407-e64064.adobeaemcloud.com/bin/franklin.delivery/adobedevxsc/citisignal-one/main"
+    url: "https://author-p23407-e64064.adobeaemcloud.com/bin/franklin.delivery/citisignal-one/main"
     type: "markup"
     suffix: ".html"
 
